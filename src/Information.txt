@@ -1,0 +1,4 @@
+First slider: Changing the shape
+Second slider: Controls R in RGB colour
+Third slider: Controls G in RGB colour
+Fourth slider: Controls B in RGB colour
